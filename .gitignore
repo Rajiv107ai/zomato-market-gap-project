@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+data/zomato.csv
+data/zomato_geo.csv
+data/zomato_with_competition.csv
